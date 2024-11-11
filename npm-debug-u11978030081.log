@@ -1,0 +1,9 @@
+npm ERR! code ENOTEMPTY
+npm ERR! syscall rename
+npm ERR! path /Users/soundteamadmin/Desktop/PTZOptics Xbox Mac Max/node_modules/qrcode
+npm ERR! dest /Users/soundteamadmin/Desktop/PTZOptics Xbox Mac Max/node_modules/.qrcode-2FYIn1bF
+npm ERR! errno -66
+npm ERR! ENOTEMPTY: directory not empty, rename '/Users/soundteamadmin/Desktop/PTZOptics Xbox Mac Max/node_modules/qrcode' -> '/Users/soundteamadmin/Desktop/PTZOptics Xbox Mac Max/node_modules/.qrcode-2FYIn1bF'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/soundteamadmin/.npm/_logs/2023-04-21T17_06_26_250Z-debug.log

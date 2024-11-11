@@ -1,0 +1,14 @@
+npm notice 
+npm notice New major version of npm available! 7.19.1 -> 10.9.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.9.0>
+npm notice Run `npm install -g npm@10.9.0` to update!
+npm notice 
+npm ERR! code ENOTEMPTY
+npm ERR! syscall rename
+npm ERR! path /Users/davidsaldana/Downloads/PTZOptics Xbox Mac Max/node_modules/qrcode
+npm ERR! dest /Users/davidsaldana/Downloads/PTZOptics Xbox Mac Max/node_modules/.qrcode-lgo90YAm
+npm ERR! errno -66
+npm ERR! ENOTEMPTY: directory not empty, rename '/Users/davidsaldana/Downloads/PTZOptics Xbox Mac Max/node_modules/qrcode' -> '/Users/davidsaldana/Downloads/PTZOptics Xbox Mac Max/node_modules/.qrcode-lgo90YAm'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/davidsaldana/.npm/_logs/2024-11-11T19_04_54_567Z-debug.log

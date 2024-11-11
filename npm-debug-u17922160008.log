@@ -1,0 +1,8 @@
+npm ERR! code EJSONPARSE
+npm ERR! path /Users/soundteamadmin/Desktop/PTZOptics Xbox Mac Max/package.json
+npm ERR! JSON.parse Unexpected end of JSON input while parsing near "... \"devDependencies\": {"
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/soundteamadmin/.npm/_logs/2023-03-24T22_15_27_691Z-debug.log
